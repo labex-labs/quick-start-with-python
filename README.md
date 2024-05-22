@@ -10,8 +10,8 @@ This course is designed for beginners who want to start their journey with Pytho
 
 ## Scenarios
 
-|   Index | Name                                                  | Difficulty   | URL                                                                        |
-|---------|-------------------------------------------------------|--------------|----------------------------------------------------------------------------|
+|   Index | Name                                                 | Difficulty   | URL                                                                        |
+|---------|------------------------------------------------------|--------------|----------------------------------------------------------------------------|
 |      01 | 📖 Your First Python Lab                              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/270256'>Start Lab</a>       |
 |      02 | 📖 Data Types and Conversion                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/290726'>Start Lab</a>       |
 |      03 | 🎯 Comprehensive Python Hello                         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/61'>Start Challenge</a>     |
