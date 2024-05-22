@@ -23,4 +23,3 @@ This course is designed for beginners who want to start their journey with Pytho
 |      09 | 📖 Python Data Structures Fundamentals                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/74'>Start Lab</a>           |
 |      10 | 📖 Variable Type Conversion                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/95'>Start Lab</a>           |
 
-> Updated at: 2024-05-21T05:52:54Z
