@@ -4,8 +4,8 @@
 
 This course is designed for beginners who want to start their journey with Python. You will learn the basics of Python, including data types, variables, operators, and how to use them in real-world scenarios. You will also learn how to use the IPython shell and Jupyter Notebook to write and execute Python code.
 
-![Linux](https://img.shields.io/badge/Linux-whitesmoke?style=for-the-badge&logo=linux&link=https%3A%2F%2Flabex.io%2Fskilltrees)
-![Python](https://img.shields.io/badge/Python-whitesmoke?style=for-the-badge&logo=python&link=https%3A%2F%2Flabex.io%2Fskilltrees)
+![Linux](https://img.shields.io/badge/Linux-whitesmoke?style=for-the-badge&logo=linux)
+![Python](https://img.shields.io/badge/Python-whitesmoke?style=for-the-badge&logo=python)
 
 
 ## Scenarios
