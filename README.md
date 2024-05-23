@@ -10,7 +10,7 @@ This course is designed for beginners who want to start their journey with Pytho
 
 ## Scenarios
 
-|   Index | Name                                                 | Difficulty   | URL                                                                        |
+|   Index | Name                                                 | Difficulty   | Practice                                                                   |
 |---------|------------------------------------------------------|--------------|----------------------------------------------------------------------------|
 |      01 | 📖 Your First Python Lab                              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/270256'>Start Lab</a>       |
 |      02 | 📖 Data Types and Conversion                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/290726'>Start Lab</a>       |
@@ -22,4 +22,9 @@ This course is designed for beginners who want to start their journey with Pytho
 |      08 | 📖 Conditional Statements in Python                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/290723'>Start Lab</a>       |
 |      09 | 📖 Python Data Structures Fundamentals                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/74'>Start Lab</a>           |
 |      10 | 📖 Variable Type Conversion                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/95'>Start Lab</a>           |
+
+## More
+
+- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Python Free Tutorials](https://github.com/labex-labs/python-free-tutorials)
 
