@@ -1,6 +1,6 @@
 # Quick Start with Python
 
-![Quick Start with Python](https://cover-creator.labex.io/quick-start-with-python.png)
+![Quick Start with Python](https://cover-creator.appbot.io/quick-start-with-python.png)
 
 This course is designed for beginners who want to start their journey with Python. You will learn the basics of Python, including data types, variables, operators, and how to use them in real-world scenarios. You will also learn how to use the IPython shell and Jupyter Notebook to write and execute Python code.
 
