@@ -25,7 +25,7 @@ This course is designed for beginners who want to start their journey with Pytho
 
 ## More
 
-- 🔗 [Python Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Python Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Python Free Tutorials](https://github.com/labex-labs/python-free-tutorials)
+- 🔗 [DevOps Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [DevOps Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [DevOps Free Tutorials](https://github.com/labex-labs/devops-free-tutorials)
 
