@@ -14,14 +14,14 @@ This course is designed for beginners who want to start their journey with Pytho
 |---------|------------------------------------------------------|--------------|----------------------------------------------------------------------------|
 |      01 | 📖 Your First Python Lab                              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/270256'>Start Lab</a>       |
 |      02 | 📖 Data Types and Conversion                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/290726'>Start Lab</a>       |
-|      03 | 🎯 Comprehensive Python Hello                         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/61'>Start Challenge</a>     |
-|      04 | 📖 Effective Python Code Commenting                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/72'>Start Lab</a>           |
+|      03 | 🎯 Print Hello Python                                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/61'>Start Challenge</a>     |
+|      04 | 📖 Python Code Comments                               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/72'>Start Lab</a>           |
 |      05 | 📖 Python Math and Augmented Assignment               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/88'>Start Lab</a>           |
 |      06 | 🎯 Convert Hours to Seconds                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/290725'>Start Challenge</a> |
-|      07 | 📖 Exploring IPython's Interactive Computing Features | ★☆☆          | <a target='_blank' href='https://labex.io/labs/83'>Start Lab</a>           |
-|      08 | 📖 Conditional Statements in Python                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/290723'>Start Lab</a>       |
-|      09 | 📖 Python Data Structures Fundamentals                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/74'>Start Lab</a>           |
-|      10 | 📖 Variable Type Conversion                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/95'>Start Lab</a>           |
+|      07 | 📖 Conditional Statements in Python                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/290723'>Start Lab</a>       |
+|      08 | 📖 Python Data Structures Fundamentals                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/74'>Start Lab</a>           |
+|      09 | 📖 Variable Type Conversion                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/95'>Start Lab</a>           |
+|      10 | 📖 Exploring IPython's Interactive Computing Features | ★☆☆          | <a target='_blank' href='https://labex.io/labs/83'>Start Lab</a>           |
 
 ## More
 
