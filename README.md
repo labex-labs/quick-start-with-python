@@ -26,8 +26,8 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 ## Exercises
 
-|   Index | Name                                                  | Difficulty   | Practice                                                                                                                        |
-|---------|-------------------------------------------------------|--------------|---------------------------------------------------------------------------------------------------------------------------------|
+|   Index | Name                                                 | Difficulty   | Practice                                                                                                                        |
+|---------|------------------------------------------------------|--------------|---------------------------------------------------------------------------------------------------------------------------------|
 |      01 | 📖 Your First Python Lab                              | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/python-your-first-python-lab-270256'>Start Lab</a>                          |
 |      02 | 📖 Data Types and Conversion                          | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/python-data-types-and-conversion-290726'>Start Lab</a>                      |
 |      03 | 🎯 Print Hello Python                                 | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/python-print-hello-python-61'>Start Challenge</a>                           |
