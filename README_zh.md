@@ -26,26 +26,26 @@ LabEx 是一个专注于编程和技术的交互式动手学习平台。它结�
 - 不断增长的学习资源，包含 30 个技能树和超过 6,000 个实验。
 - 基于 ChatGPT 构建的 AI 学习助手 Labby，提供对话式学习体验。
 
-了解更多关于 [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
+了解更多 [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
 
 ## 练习
 
 |   序号 | 名称                          | 难度   | 练习                                                                                                                      |
 |--------|-------------------------------|--------|---------------------------------------------------------------------------------------------------------------------------|
-|     01 | 📖 你的第一个 Python 实验     | ★★☆    | <a target='_blank' href='https://labex.io/zh/tutorials/python-your-first-python-lab-270256'>开始实验</a>                  |
-|     02 | 🎯 太空学院通信               | ★☆☆    | <a target='_blank' href='https://labex.io/zh/tutorials/python-space-academy-communication-393069'>开始挑战</a>            |
-|     03 | 📖 Python 数据类型与运算符    | ★★☆    | <a target='_blank' href='https://labex.io/zh/tutorials/python-python-data-types-and-operators-393077'>开始实验</a>        |
-|     04 | 🎯 创建宇航员名牌处理器       | ★☆☆    | <a target='_blank' href='https://labex.io/zh/tutorials/python-create-an-astronaut-name-tag-processor-393083'>开始挑战</a> |
-|     05 | 📖 Python 控制结构            | ★★☆    | <a target='_blank' href='https://labex.io/zh/tutorials/python-python-control-structures-393123'>开始实验</a>              |
-|     06 | 🎯 创建一个火箭发射倒计时程序 | ★☆☆    | <a target='_blank' href='https://labex.io/zh/tutorials/python-create-a-rocket-launch-countdown-393128'>开始挑战</a>       |
-|     07 | 📖 Python 函数与模块          | ★☆☆    | <a target='_blank' href='https://labex.io/zh/tutorials/python-python-functions-and-modules-393141'>开始实验</a>           |
-|     08 | 🎯 太空任务计算器             | ★☆☆    | <a target='_blank' href='https://labex.io/zh/tutorials/python-space-mission-calculator-393156'>开始挑战</a>               |
-|     09 | 📖 Python 数据结构            | ★☆☆    | <a target='_blank' href='https://labex.io/zh/tutorials/python-python-data-structures-393168'>开始实验</a>                 |
-|     10 | 🎯 太空任务管理系统           | ★☆☆    | <a target='_blank' href='https://labex.io/zh/tutorials/python-space-mission-management-system-393176'>开始挑战</a>        |
+|     01 | 📖 你的第一个 Python 实验     | 中级   | <a target='_blank' href='https://labex.io/zh/tutorials/python-your-first-python-lab-270256'>开始实验</a>                  |
+|     02 | 🎯 太空学院通信               | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/python-space-academy-communication-393069'>开始挑战</a>            |
+|     03 | 📖 Python 数据类型与运算符    | 中级   | <a target='_blank' href='https://labex.io/zh/tutorials/python-python-data-types-and-operators-393077'>开始实验</a>        |
+|     04 | 🎯 创建宇航员名牌处理器       | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/python-create-an-astronaut-name-tag-processor-393083'>开始挑战</a> |
+|     05 | 📖 Python 控制结构            | 中级   | <a target='_blank' href='https://labex.io/zh/tutorials/python-python-control-structures-393123'>开始实验</a>              |
+|     06 | 🎯 创建一个火箭发射倒计时程序 | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/python-create-a-rocket-launch-countdown-393128'>开始挑战</a>       |
+|     07 | 📖 Python 函数与模块          | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/python-python-functions-and-modules-393141'>开始实验</a>           |
+|     08 | 🎯 太空任务计算器             | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/python-space-mission-calculator-393156'>开始挑战</a>               |
+|     09 | 📖 Python 数据结构            | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/python-python-data-structures-393168'>开始实验</a>                 |
+|     10 | 🎯 太空任务管理系统           | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/python-space-mission-management-system-393176'>开始挑战</a>        |
 
 ## 更多
 
-- 🔗 [Python Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Python Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Python Free Tutorials](https://github.com/labex-labs/python-free-tutorials)
+- 🔗 [Python 编程课程](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Python 编程项目](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Python 免费教程](https://github.com/labex-labs/python-free-tutorials)
 
