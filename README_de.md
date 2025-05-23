@@ -32,20 +32,20 @@ Erfahren Sie mehr über [LabEx VM](https://support.labex.io/using-labex/virtual-
 
 |   Index | Name                                                     | Schwierigkeit   | Übung                                                                                                                              |
 |---------|----------------------------------------------------------|-----------------|------------------------------------------------------------------------------------------------------------------------------------|
-|      01 | 📖 Ihr erster Python-Lab                                 | ★★☆             | <a target='_blank' href='https://labex.io/de/tutorials/python-your-first-python-lab-270256'>Labor Starten</a>                      |
-|      02 | 🎯 Kommunikation in der Weltraumakademie                 | ★☆☆             | <a target='_blank' href='https://labex.io/de/tutorials/python-space-academy-communication-393069'>Challenge Starten</a>            |
-|      03 | 📖 Python-Datentypen und Operatoren                      | ★★☆             | <a target='_blank' href='https://labex.io/de/tutorials/python-python-data-types-and-operators-393077'>Labor Starten</a>            |
-|      04 | 🎯 Erstellen Sie einen Astronauten-Namensschild-Proze... | ★☆☆             | <a target='_blank' href='https://labex.io/de/tutorials/python-create-an-astronaut-name-tag-processor-393083'>Challenge Starten</a> |
-|      05 | 📖 Python-Steuerstrukturen                               | ★★☆             | <a target='_blank' href='https://labex.io/de/tutorials/python-python-control-structures-393123'>Labor Starten</a>                  |
-|      06 | 🎯 Erstellen Sie einen Raketenstart-Countdown            | ★☆☆             | <a target='_blank' href='https://labex.io/de/tutorials/python-create-a-rocket-launch-countdown-393128'>Challenge Starten</a>       |
-|      07 | 📖 Python-Funktionen und -Module                         | ★☆☆             | <a target='_blank' href='https://labex.io/de/tutorials/python-python-functions-and-modules-393141'>Labor Starten</a>               |
-|      08 | 🎯 Raumfahrtmissionsrechner                              | ★☆☆             | <a target='_blank' href='https://labex.io/de/tutorials/python-space-mission-calculator-393156'>Challenge Starten</a>               |
-|      09 | 📖 Python-Datenstrukturen                                | ★☆☆             | <a target='_blank' href='https://labex.io/de/tutorials/python-python-data-structures-393168'>Labor Starten</a>                     |
-|      10 | 🎯 Raumfahrtmissionsverwaltungssystem                    | ★☆☆             | <a target='_blank' href='https://labex.io/de/tutorials/python-space-mission-management-system-393176'>Challenge Starten</a>        |
+|      01 | 📖 Ihr erster Python-Lab                                 | Fortgeschritten | <a target='_blank' href='https://labex.io/de/tutorials/python-your-first-python-lab-270256'>Labor Starten</a>                      |
+|      02 | 🎯 Kommunikation in der Weltraumakademie                 | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/python-space-academy-communication-393069'>Challenge Starten</a>            |
+|      03 | 📖 Python-Datentypen und Operatoren                      | Fortgeschritten | <a target='_blank' href='https://labex.io/de/tutorials/python-python-data-types-and-operators-393077'>Labor Starten</a>            |
+|      04 | 🎯 Erstellen Sie einen Astronauten-Namensschild-Proze... | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/python-create-an-astronaut-name-tag-processor-393083'>Challenge Starten</a> |
+|      05 | 📖 Python-Steuerstrukturen                               | Fortgeschritten | <a target='_blank' href='https://labex.io/de/tutorials/python-python-control-structures-393123'>Labor Starten</a>                  |
+|      06 | 🎯 Erstellen Sie einen Raketenstart-Countdown            | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/python-create-a-rocket-launch-countdown-393128'>Challenge Starten</a>       |
+|      07 | 📖 Python-Funktionen und -Module                         | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/python-python-functions-and-modules-393141'>Labor Starten</a>               |
+|      08 | 🎯 Raumfahrtmissionsrechner                              | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/python-space-mission-calculator-393156'>Challenge Starten</a>               |
+|      09 | 📖 Python-Datenstrukturen                                | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/python-python-data-structures-393168'>Labor Starten</a>                     |
+|      10 | 🎯 Raumfahrtmissionsverwaltungssystem                    | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/python-space-mission-management-system-393176'>Challenge Starten</a>        |
 
 ## Mehr
 
-- 🔗 [Python Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Python Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Python Free Tutorials](https://github.com/labex-labs/python-free-tutorials)
+- 🔗 [Python Programmierungskurse](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Python Programmierprojekte](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Python Kostenlose Tutorials](https://github.com/labex-labs/python-free-tutorials)
 
