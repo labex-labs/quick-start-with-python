@@ -32,20 +32,20 @@ LabEx - это интерактивная практическая обучаю�
 
 |   Индекс | Название                                             | Сложность   | Практика                                                                                                                          |
 |----------|------------------------------------------------------|-------------|-----------------------------------------------------------------------------------------------------------------------------------|
-|       01 | 📖 Ваша первая практика по Python                    | ★★☆         | <a target='_blank' href='https://labex.io/ru/tutorials/python-your-first-python-lab-270256'>Начать Лабораторию</a>                |
-|       02 | 🎯 Связь в Академии Космоса                          | ★☆☆         | <a target='_blank' href='https://labex.io/ru/tutorials/python-space-academy-communication-393069'>Начать Испытание</a>            |
-|       03 | 📖 Типы данных и операторы в Python                  | ★★☆         | <a target='_blank' href='https://labex.io/ru/tutorials/python-python-data-types-and-operators-393077'>Начать Лабораторию</a>      |
-|       04 | 🎯 Создание обработчика именных табличек астронавтов | ★☆☆         | <a target='_blank' href='https://labex.io/ru/tutorials/python-create-an-astronaut-name-tag-processor-393083'>Начать Испытание</a> |
-|       05 | 📖 Управляющие структуры Python                      | ★★☆         | <a target='_blank' href='https://labex.io/ru/tutorials/python-python-control-structures-393123'>Начать Лабораторию</a>            |
-|       06 | 🎯 Создание обратного отсчета для запуска ракеты     | ★☆☆         | <a target='_blank' href='https://labex.io/ru/tutorials/python-create-a-rocket-launch-countdown-393128'>Начать Испытание</a>       |
-|       07 | 📖 Функции и модули Python                           | ★☆☆         | <a target='_blank' href='https://labex.io/ru/tutorials/python-python-functions-and-modules-393141'>Начать Лабораторию</a>         |
-|       08 | 🎯 Калькулятор космических миссий                    | ★☆☆         | <a target='_blank' href='https://labex.io/ru/tutorials/python-space-mission-calculator-393156'>Начать Испытание</a>               |
-|       09 | 📖 Структуры данных в Python                         | ★☆☆         | <a target='_blank' href='https://labex.io/ru/tutorials/python-python-data-structures-393168'>Начать Лабораторию</a>               |
-|       10 | 🎯 Система управления космическими миссиями          | ★☆☆         | <a target='_blank' href='https://labex.io/ru/tutorials/python-space-mission-management-system-393176'>Начать Испытание</a>        |
+|       01 | 📖 Ваша первая практика по Python                    | Средний     | <a target='_blank' href='https://labex.io/ru/tutorials/python-your-first-python-lab-270256'>Начать Лабораторию</a>                |
+|       02 | 🎯 Связь в Академии Космоса                          | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/python-space-academy-communication-393069'>Начать Испытание</a>            |
+|       03 | 📖 Типы данных и операторы в Python                  | Средний     | <a target='_blank' href='https://labex.io/ru/tutorials/python-python-data-types-and-operators-393077'>Начать Лабораторию</a>      |
+|       04 | 🎯 Создание обработчика именных табличек астронавтов | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/python-create-an-astronaut-name-tag-processor-393083'>Начать Испытание</a> |
+|       05 | 📖 Управляющие структуры Python                      | Средний     | <a target='_blank' href='https://labex.io/ru/tutorials/python-python-control-structures-393123'>Начать Лабораторию</a>            |
+|       06 | 🎯 Создание обратного отсчета для запуска ракеты     | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/python-create-a-rocket-launch-countdown-393128'>Начать Испытание</a>       |
+|       07 | 📖 Функции и модули Python                           | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/python-python-functions-and-modules-393141'>Начать Лабораторию</a>         |
+|       08 | 🎯 Калькулятор космических миссий                    | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/python-space-mission-calculator-393156'>Начать Испытание</a>               |
+|       09 | 📖 Структуры данных в Python                         | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/python-python-data-structures-393168'>Начать Лабораторию</a>               |
+|       10 | 🎯 Система управления космическими миссиями          | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/python-space-mission-management-system-393176'>Начать Испытание</a>        |
 
 ## Больше
 
-- 🔗 [Python Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Python Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Python Free Tutorials](https://github.com/labex-labs/python-free-tutorials)
+- 🔗 [Python Курсы программирования](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Python Проекты программирования](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Python Бесплатные туториалы](https://github.com/labex-labs/python-free-tutorials)
 
