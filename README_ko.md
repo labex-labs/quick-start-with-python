@@ -14,6 +14,21 @@
 ![Python](https://img.shields.io/badge/Python-whitesmoke?style=for-the-badge&logo=python)
 
 
+## 연습
+
+|   인덱스 | 이름                                   | 난이도   | 연습                                                                                                                       |
+|----------|----------------------------------------|----------|----------------------------------------------------------------------------------------------------------------------------|
+|       01 | 📖 🟢 첫 번째 Python 랩                | 중급     | <a target='_blank' href='https://labex.io/ko/tutorials/python-your-first-python-lab-270256'>실습 시작</a>                  |
+|       02 | 🎯 🟢 우주 아카데미 통신               | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/python-space-academy-communication-393069'>도전 시작</a>            |
+|       03 | 📖 🟢 Python 데이터 타입 및 연산자     | 중급     | <a target='_blank' href='https://labex.io/ko/tutorials/python-python-data-types-and-operators-393077'>실습 시작</a>        |
+|       04 | 🎯 🟢 우주 비행사 이름표 처리기 만들기 | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/python-create-an-astronaut-name-tag-processor-393083'>도전 시작</a> |
+|       05 | 📖 🟢 Python 제어 구조                 | 중급     | <a target='_blank' href='https://labex.io/ko/tutorials/python-python-control-structures-393123'>실습 시작</a>              |
+|       06 | 🎯 🟢 로켓 발사 카운트다운 만들기      | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/python-create-a-rocket-launch-countdown-393128'>도전 시작</a>       |
+|       07 | 📖 🟢 Python 함수와 모듈               | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/python-python-functions-and-modules-393141'>실습 시작</a>           |
+|       08 | 🎯 🟢 우주 임무 계산기                 | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/python-space-mission-calculator-393156'>도전 시작</a>               |
+|       09 | 📖 🟢 Python 데이터 구조               | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/python-python-data-structures-393168'>실습 시작</a>                 |
+|       10 | 🎯 🟢 우주 임무 관리 시스템            | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/python-space-mission-management-system-393176'>도전 시작</a>        |
+
 ## 환경
 
 LabEx 는 코딩과 기술에 전념하는 대화형 실습 학습 플랫폼입니다. 실험실, AI 지원 및 가상 머신을 결합하여 비디오 없는 실용적인 학습 경험을 제공합니다.
@@ -24,24 +39,9 @@ LabEx 는 코딩과 기술에 전념하는 대화형 실습 학습 플랫폼입�
 - 브라우저 내 대화형 온라인 환경에서 자동화된 단계별 확인.
 - 스킬 트리 기반 시스템으로 구조화된 콘텐츠 구성.
 - 30 개의 스킬 트리와 6,000 개 이상의 실험실을 포함하는 성장하는 학습 리소스.
-- ChatGPT 를 기반으로 구축된 AI 학습 도우미 Labby 가 제공하는 대화형 학습 경험.
+- 최신 AI 모델을 기반으로 구축된 학습 도우미 Labby 가 제공하는 대화형 학습 경험.
 
 자세히 알아보기 [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
-
-## 연습
-
-|   인덱스 | 이름                                | 난이도   | 연습                                                                                                                       |
-|----------|-------------------------------------|----------|----------------------------------------------------------------------------------------------------------------------------|
-|       01 | 📖 첫 번째 Python 랩                | 중급     | <a target='_blank' href='https://labex.io/ko/tutorials/python-your-first-python-lab-270256'>실습 시작</a>                  |
-|       02 | 🎯 우주 아카데미 통신               | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/python-space-academy-communication-393069'>도전 시작</a>            |
-|       03 | 📖 Python 데이터 타입 및 연산자     | 중급     | <a target='_blank' href='https://labex.io/ko/tutorials/python-python-data-types-and-operators-393077'>실습 시작</a>        |
-|       04 | 🎯 우주 비행사 이름표 처리기 만들기 | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/python-create-an-astronaut-name-tag-processor-393083'>도전 시작</a> |
-|       05 | 📖 Python 제어 구조                 | 중급     | <a target='_blank' href='https://labex.io/ko/tutorials/python-python-control-structures-393123'>실습 시작</a>              |
-|       06 | 🎯 로켓 발사 카운트다운 만들기      | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/python-create-a-rocket-launch-countdown-393128'>도전 시작</a>       |
-|       07 | 📖 Python 함수와 모듈               | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/python-python-functions-and-modules-393141'>실습 시작</a>           |
-|       08 | 🎯 우주 임무 계산기                 | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/python-space-mission-calculator-393156'>도전 시작</a>               |
-|       09 | 📖 Python 데이터 구조               | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/python-python-data-structures-393168'>실습 시작</a>                 |
-|       10 | 🎯 우주 임무 관리 시스템            | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/python-space-mission-management-system-393176'>도전 시작</a>        |
 
 ## 더 보기
 
