@@ -18,16 +18,16 @@ Master Python fundamentals in this hands-on course designed for beginners. Learn
 
 |   Index | Name                                         | Difficulty   | Practice                                                                                                                      |
 |---------|----------------------------------------------|--------------|-------------------------------------------------------------------------------------------------------------------------------|
-|      01 | 📖 🟢 Your First Python Lab                  | Intermediate | <a target='_blank' href='https://labex.io/tutorials/python-your-first-python-lab-270256'>Start Lab</a>                        |
-|      02 | 🎯 🟢 Space Academy Communication            | Beginner     | <a target='_blank' href='https://labex.io/tutorials/python-space-academy-communication-393069'>Start Challenge</a>            |
-|      03 | 📖 🟢 Python Data Types and Operators        | Intermediate | <a target='_blank' href='https://labex.io/tutorials/python-python-data-types-and-operators-393077'>Start Lab</a>              |
-|      04 | 🎯 🟢 Create an Astronaut Name Tag Processor | Beginner     | <a target='_blank' href='https://labex.io/tutorials/python-create-an-astronaut-name-tag-processor-393083'>Start Challenge</a> |
-|      05 | 📖 🟢 Python Control Structures              | Intermediate | <a target='_blank' href='https://labex.io/tutorials/python-python-control-structures-393123'>Start Lab</a>                    |
-|      06 | 🎯 🟢 Create a Rocket Launch Countdown       | Beginner     | <a target='_blank' href='https://labex.io/tutorials/python-create-a-rocket-launch-countdown-393128'>Start Challenge</a>       |
-|      07 | 📖 🟢 Python Functions and Modules           | Beginner     | <a target='_blank' href='https://labex.io/tutorials/python-python-functions-and-modules-393141'>Start Lab</a>                 |
-|      08 | 🎯 🟢 Space Mission Calculator               | Beginner     | <a target='_blank' href='https://labex.io/tutorials/python-space-mission-calculator-393156'>Start Challenge</a>               |
-|      09 | 📖 🟢 Python Data Structures                 | Beginner     | <a target='_blank' href='https://labex.io/tutorials/python-python-data-structures-393168'>Start Lab</a>                       |
-|      10 | 🎯 🟢 Space Mission Management System        | Beginner     | <a target='_blank' href='https://labex.io/tutorials/python-space-mission-management-system-393176'>Start Challenge</a>        |
+|      01 | 📖 🆓 Your First Python Lab                  | Intermediate | <a target='_blank' href='https://labex.io/tutorials/python-your-first-python-lab-270256'>Start Lab</a>                        |
+|      02 | 🎯 🆓 Space Academy Communication            | Beginner     | <a target='_blank' href='https://labex.io/tutorials/python-space-academy-communication-393069'>Start Challenge</a>            |
+|      03 | 📖 🆓 Python Data Types and Operators        | Intermediate | <a target='_blank' href='https://labex.io/tutorials/python-python-data-types-and-operators-393077'>Start Lab</a>              |
+|      04 | 🎯 🆓 Create an Astronaut Name Tag Processor | Beginner     | <a target='_blank' href='https://labex.io/tutorials/python-create-an-astronaut-name-tag-processor-393083'>Start Challenge</a> |
+|      05 | 📖 🆓 Python Control Structures              | Intermediate | <a target='_blank' href='https://labex.io/tutorials/python-python-control-structures-393123'>Start Lab</a>                    |
+|      06 | 🎯 🆓 Create a Rocket Launch Countdown       | Beginner     | <a target='_blank' href='https://labex.io/tutorials/python-create-a-rocket-launch-countdown-393128'>Start Challenge</a>       |
+|      07 | 📖 🆓 Python Functions and Modules           | Beginner     | <a target='_blank' href='https://labex.io/tutorials/python-python-functions-and-modules-393141'>Start Lab</a>                 |
+|      08 | 🎯 🆓 Space Mission Calculator               | Beginner     | <a target='_blank' href='https://labex.io/tutorials/python-space-mission-calculator-393156'>Start Challenge</a>               |
+|      09 | 📖 🆓 Python Data Structures                 | Beginner     | <a target='_blank' href='https://labex.io/tutorials/python-python-data-structures-393168'>Start Lab</a>                       |
+|      10 | 🎯 🆓 Space Mission Management System        | Beginner     | <a target='_blank' href='https://labex.io/tutorials/python-space-mission-management-system-393176'>Start Challenge</a>        |
 
 ## Environment
 
