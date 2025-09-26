@@ -18,16 +18,16 @@
 
 |   インデックス | 名前                                           | 難易度   | 練習                                                                                                                              |
 |----------------|------------------------------------------------|----------|-----------------------------------------------------------------------------------------------------------------------------------|
-|             01 | 📖 🟢 あなたの最初の Python 実験               | 中級     | <a target='_blank' href='https://labex.io/ja/tutorials/python-your-first-python-lab-270256'>ラボを開始</a>                        |
-|             02 | 🎯 🟢 宇宙アカデミーの通信                     | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/python-space-academy-communication-393069'>チャレンジを開始</a>            |
-|             03 | 📖 🟢 Python のデータ型と演算子                | 中級     | <a target='_blank' href='https://labex.io/ja/tutorials/python-python-data-types-and-operators-393077'>ラボを開始</a>              |
-|             04 | 🎯 🟢 宇宙飛行士名札処理プログラムを作成する   | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/python-create-an-astronaut-name-tag-processor-393083'>チャレンジを開始</a> |
-|             05 | 📖 🟢 Python の制御構造                        | 中級     | <a target='_blank' href='https://labex.io/ja/tutorials/python-python-control-structures-393123'>ラボを開始</a>                    |
-|             06 | 🎯 🟢 ロケット打ち上げカウントダウンを作成する | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/python-create-a-rocket-launch-countdown-393128'>チャレンジを開始</a>       |
-|             07 | 📖 🟢 Python の関数とモジュール                | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/python-python-functions-and-modules-393141'>ラボを開始</a>                 |
-|             08 | 🎯 🟢 宇宙ミッション計算機                     | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/python-space-mission-calculator-393156'>チャレンジを開始</a>               |
-|             09 | 📖 🟢 Python のデータ構造                      | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/python-python-data-structures-393168'>ラボを開始</a>                       |
-|             10 | 🎯 🟢 宇宙ミッション管理システム               | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/python-space-mission-management-system-393176'>チャレンジを開始</a>        |
+|             01 | 📖 🆓 あなたの最初の Python 実験               | 中級     | <a target='_blank' href='https://labex.io/ja/tutorials/python-your-first-python-lab-270256'>ラボを開始</a>                        |
+|             02 | 🎯 🆓 宇宙アカデミーの通信                     | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/python-space-academy-communication-393069'>チャレンジを開始</a>            |
+|             03 | 📖 🆓 Python のデータ型と演算子                | 中級     | <a target='_blank' href='https://labex.io/ja/tutorials/python-python-data-types-and-operators-393077'>ラボを開始</a>              |
+|             04 | 🎯 🆓 宇宙飛行士名札処理プログラムを作成する   | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/python-create-an-astronaut-name-tag-processor-393083'>チャレンジを開始</a> |
+|             05 | 📖 🆓 Python の制御構造                        | 中級     | <a target='_blank' href='https://labex.io/ja/tutorials/python-python-control-structures-393123'>ラボを開始</a>                    |
+|             06 | 🎯 🆓 ロケット打ち上げカウントダウンを作成する | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/python-create-a-rocket-launch-countdown-393128'>チャレンジを開始</a>       |
+|             07 | 📖 🆓 Python の関数とモジュール                | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/python-python-functions-and-modules-393141'>ラボを開始</a>                 |
+|             08 | 🎯 🆓 宇宙ミッション計算機                     | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/python-space-mission-calculator-393156'>チャレンジを開始</a>               |
+|             09 | 📖 🆓 Python のデータ構造                      | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/python-python-data-structures-393168'>ラボを開始</a>                       |
+|             10 | 🎯 🆓 宇宙ミッション管理システム               | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/python-space-mission-management-system-393176'>チャレンジを開始</a>        |
 
 ## 環境
 
