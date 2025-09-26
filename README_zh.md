@@ -18,16 +18,16 @@
 
 |   序号 | 名称                             | 难度   | 练习                                                                                                                      |
 |--------|----------------------------------|--------|---------------------------------------------------------------------------------------------------------------------------|
-|     01 | 📖 🟢 你的第一个 Python 实验     | 中级   | <a target='_blank' href='https://labex.io/zh/tutorials/python-your-first-python-lab-270256'>开始实验</a>                  |
-|     02 | 🎯 🟢 太空学院通信               | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/python-space-academy-communication-393069'>开始挑战</a>            |
-|     03 | 📖 🟢 Python 数据类型与运算符    | 中级   | <a target='_blank' href='https://labex.io/zh/tutorials/python-python-data-types-and-operators-393077'>开始实验</a>        |
-|     04 | 🎯 🟢 创建宇航员名牌处理器       | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/python-create-an-astronaut-name-tag-processor-393083'>开始挑战</a> |
-|     05 | 📖 🟢 Python 控制结构            | 中级   | <a target='_blank' href='https://labex.io/zh/tutorials/python-python-control-structures-393123'>开始实验</a>              |
-|     06 | 🎯 🟢 创建一个火箭发射倒计时程序 | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/python-create-a-rocket-launch-countdown-393128'>开始挑战</a>       |
-|     07 | 📖 🟢 Python 函数与模块          | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/python-python-functions-and-modules-393141'>开始实验</a>           |
-|     08 | 🎯 🟢 太空任务计算器             | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/python-space-mission-calculator-393156'>开始挑战</a>               |
-|     09 | 📖 🟢 Python 数据结构            | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/python-python-data-structures-393168'>开始实验</a>                 |
-|     10 | 🎯 🟢 太空任务管理系统           | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/python-space-mission-management-system-393176'>开始挑战</a>        |
+|     01 | 📖 🆓 你的第一个 Python 实验     | 中级   | <a target='_blank' href='https://labex.io/zh/tutorials/python-your-first-python-lab-270256'>开始实验</a>                  |
+|     02 | 🎯 🆓 太空学院通信               | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/python-space-academy-communication-393069'>开始挑战</a>            |
+|     03 | 📖 🆓 Python 数据类型与运算符    | 中级   | <a target='_blank' href='https://labex.io/zh/tutorials/python-python-data-types-and-operators-393077'>开始实验</a>        |
+|     04 | 🎯 🆓 创建宇航员名牌处理器       | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/python-create-an-astronaut-name-tag-processor-393083'>开始挑战</a> |
+|     05 | 📖 🆓 Python 控制结构            | 中级   | <a target='_blank' href='https://labex.io/zh/tutorials/python-python-control-structures-393123'>开始实验</a>              |
+|     06 | 🎯 🆓 创建一个火箭发射倒计时程序 | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/python-create-a-rocket-launch-countdown-393128'>开始挑战</a>       |
+|     07 | 📖 🆓 Python 函数与模块          | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/python-python-functions-and-modules-393141'>开始实验</a>           |
+|     08 | 🎯 🆓 太空任务计算器             | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/python-space-mission-calculator-393156'>开始挑战</a>               |
+|     09 | 📖 🆓 Python 数据结构            | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/python-python-data-structures-393168'>开始实验</a>                 |
+|     10 | 🎯 🆓 太空任务管理系统           | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/python-space-mission-management-system-393176'>开始挑战</a>        |
 
 ## 学习环境
 
