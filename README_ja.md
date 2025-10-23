@@ -16,22 +16,22 @@
 
 ## 演習
 
-|   インデックス | 名前                                           | 難易度   | 練習                                                                                                                              |
-|----------------|------------------------------------------------|----------|-----------------------------------------------------------------------------------------------------------------------------------|
-|             01 | 📖 🆓 あなたの最初の Python 実験               | 中級     | <a target='_blank' href='https://labex.io/ja/tutorials/python-your-first-python-lab-270256'>ラボを開始</a>                        |
-|             02 | 🎯 🆓 宇宙アカデミーの通信                     | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/python-space-academy-communication-393069'>チャレンジを開始</a>            |
-|             03 | 📖 🆓 Python のデータ型と演算子                | 中級     | <a target='_blank' href='https://labex.io/ja/tutorials/python-python-data-types-and-operators-393077'>ラボを開始</a>              |
-|             04 | 🎯 🆓 宇宙飛行士名札処理プログラムを作成する   | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/python-create-an-astronaut-name-tag-processor-393083'>チャレンジを開始</a> |
-|             05 | 📖 🆓 Python の制御構造                        | 中級     | <a target='_blank' href='https://labex.io/ja/tutorials/python-python-control-structures-393123'>ラボを開始</a>                    |
-|             06 | 🎯 🆓 ロケット打ち上げカウントダウンを作成する | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/python-create-a-rocket-launch-countdown-393128'>チャレンジを開始</a>       |
-|             07 | 📖 🆓 Python の関数とモジュール                | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/python-python-functions-and-modules-393141'>ラボを開始</a>                 |
-|             08 | 🎯 🆓 宇宙ミッション計算機                     | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/python-space-mission-calculator-393156'>チャレンジを開始</a>               |
-|             09 | 📖 🆓 Python のデータ構造                      | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/python-python-data-structures-393168'>ラボを開始</a>                       |
-|             10 | 🎯 🆓 宇宙ミッション管理システム               | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/python-space-mission-management-system-393176'>チャレンジを開始</a>        |
+|   インデックス | 名前                                           | 難易度   | 練習                                                                                                                                                        |
+|----------------|------------------------------------------------|----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|             01 | 🧩 🆓 あなたの最初の Python 実験               | 中級     | <a target='_blank' href='https://labex.io/ja/labs/python-your-first-python-lab-270256?course=quick-start-with-python'>ラボを開始</a>                        |
+|             02 | 🎯 🆓 宇宙アカデミーの通信                     | 初級     | <a target='_blank' href='https://labex.io/ja/labs/python-space-academy-communication-393069?course=quick-start-with-python'>チャレンジを開始</a>            |
+|             03 | 🧩 🆓 Python のデータ型と演算子                | 中級     | <a target='_blank' href='https://labex.io/ja/labs/python-python-data-types-and-operators-393077?course=quick-start-with-python'>ラボを開始</a>              |
+|             04 | 🎯 🆓 宇宙飛行士名札処理プログラムを作成する   | 初級     | <a target='_blank' href='https://labex.io/ja/labs/python-create-an-astronaut-name-tag-processor-393083?course=quick-start-with-python'>チャレンジを開始</a> |
+|             05 | 🧩 🆓 Python の制御構造                        | 中級     | <a target='_blank' href='https://labex.io/ja/labs/python-python-control-structures-393123?course=quick-start-with-python'>ラボを開始</a>                    |
+|             06 | 🎯 🆓 ロケット打ち上げカウントダウンを作成する | 初級     | <a target='_blank' href='https://labex.io/ja/labs/python-create-a-rocket-launch-countdown-393128?course=quick-start-with-python'>チャレンジを開始</a>       |
+|             07 | 🧩 🆓 Python の関数とモジュール                | 初級     | <a target='_blank' href='https://labex.io/ja/labs/python-python-functions-and-modules-393141?course=quick-start-with-python'>ラボを開始</a>                 |
+|             08 | 🎯 🆓 宇宙ミッション計算機                     | 初級     | <a target='_blank' href='https://labex.io/ja/labs/python-space-mission-calculator-393156?course=quick-start-with-python'>チャレンジを開始</a>               |
+|             09 | 🧩 🆓 Python のデータ構造                      | 初級     | <a target='_blank' href='https://labex.io/ja/labs/python-python-data-structures-393168?course=quick-start-with-python'>ラボを開始</a>                       |
+|             10 | 🎯 🆓 宇宙ミッション管理システム               | 初級     | <a target='_blank' href='https://labex.io/ja/labs/python-space-mission-management-system-393176?course=quick-start-with-python'>チャレンジを開始</a>        |
 
 ## LabEx について
 
-LabEx は、コーディングとテクノロジーに特化したインタラクティブな実践学習プラットフォームです。ラボ、AI 支援、仮想マシンを組み合わせて、ビデオなしの実践的な学習体験を提供します。動画なしの独自の実践ラボによる厳格な「実践による学習」アプローチ、ブラウザ内のインタラクティブなオンライン環境で自動化されたステップバイステップのチェック機能、スキルツリーベースのシステムによる構造化されたコンテンツ組織、30 のスキルツリーと 6,000 以上のラボを含む成長し続ける学習リソースにより、LabEx は包括的な実践教育を提供します。プラットフォームには、最新の AI モデルを基盤とした学習アシスタント Labby が含まれており、対話型学習体験を提供します。
+[LabEx](https://labex.io) は、コーディングとテクノロジーに特化したインタラクティブな実践学習プラットフォームです。ラボ、AI 支援、仮想マシンを組み合わせて、ビデオなしの実践的な学習体験を提供します。動画なしの独自の実践ラボによる厳格な「実践による学習」アプローチ、ブラウザ内のインタラクティブなオンライン環境で自動化されたステップバイステップのチェック機能、スキルツリーベースのシステムによる構造化されたコンテンツ組織、30 のスキルツリーと 6,000 以上のラボを含む成長し続ける学習リソースにより、[LabEx](https://labex.io) は包括的な実践教育を提供します。プラットフォームには、最新の AI モデルを基盤とした学習アシスタント Labby が含まれており、対話型学習体験を提供します。
 
 ## その他
 
