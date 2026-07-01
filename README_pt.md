@@ -1,41 +1,33 @@
 # Início Rápido com Python
 
-## Idiomas
+**Idiomas:** [English](README.md) · [简体中文](README_zh.md) · [Español](README_es.md) · [Français](README_fr.md) · [Deutsch](README_de.md) · [日本語](README_ja.md) · [Русский](README_ru.md) · [한국어](README_ko.md) · [Português](README_pt.md)
 
-🇨🇳 [简体中文](README_zh.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇯🇵 [日本語](README_ja.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
-
-[![Início Rápido com Python](https://cover-creator.labex.io/quick-start-with-python.png?lang=pt)](https://labex.io/pt/courses/quick-start-with-python)
-
-[![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/pt/courses/quick-start-with-python)
+<p align="center">
+  <a href="https://labex.io/pt/courses/quick-start-with-python">
+    <img src="https://course-cover.labex.io/quick-start-with-python.png?lang=pt" alt="Início Rápido com Python">
+  </a>
+</p>
 
 Domine os fundamentos do Python neste curso prático, projetado para iniciantes. Aprenda conceitos essenciais como tipos de dados, estruturas de controle, funções, módulos e estruturas de dados através de laboratórios interativos e desafios práticos. Perfeito para quem está começando sua jornada na programação Python.
 
-![Linux](https://img.shields.io/badge/Linux-whitesmoke?style=for-the-badge&logo=linux)
-![Python](https://img.shields.io/badge/Python-whitesmoke?style=for-the-badge&logo=python)
-
+[Iniciar curso no LabEx](https://labex.io/pt/courses/quick-start-with-python)
 
 ## Exercícios
 
-|   Índice | Nome                                                        | Dificuldade   | Prática                                                                                                                                                    |
-|----------|-------------------------------------------------------------|---------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|       01 | 🧩 🆓 Seu Primeiro Laboratório Python                       | Intermediário | <a target='_blank' href='https://labex.io/pt/labs/python-your-first-python-lab-270256?course=quick-start-with-python'>Iniciar Lab</a>                      |
-|       02 | 🎯 🆓 Comunicação na Academia Espacial                      | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/python-space-academy-communication-393069?course=quick-start-with-python'>Iniciar Desafio</a>            |
-|       03 | 🧩 🆓 Tipos de Dados e Operadores em Python                 | Intermediário | <a target='_blank' href='https://labex.io/pt/labs/python-python-data-types-and-operators-393077?course=quick-start-with-python'>Iniciar Lab</a>            |
-|       04 | 🎯 🆓 Criar um Processador de Etiquetas de Identificação... | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/python-create-an-astronaut-name-tag-processor-393083?course=quick-start-with-python'>Iniciar Desafio</a> |
-|       05 | 🧩 🆓 Estruturas de Controle em Python                      | Intermediário | <a target='_blank' href='https://labex.io/pt/labs/python-python-control-structures-393123?course=quick-start-with-python'>Iniciar Lab</a>                  |
-|       06 | 🎯 🆓 Crie uma Contagem Regressiva para o Lançamento de ... | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/python-create-a-rocket-launch-countdown-393128?course=quick-start-with-python'>Iniciar Desafio</a>       |
-|       07 | 🧩 🆓 Funções e Módulos em Python                           | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/python-python-functions-and-modules-393141?course=quick-start-with-python'>Iniciar Lab</a>               |
-|       08 | 🎯 🆓 Calculadora de Missão Espacial                        | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/python-space-mission-calculator-393156?course=quick-start-with-python'>Iniciar Desafio</a>               |
-|       09 | 🧩 🆓 Estruturas de Dados em Python                         | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/python-python-data-structures-393168?course=quick-start-with-python'>Iniciar Lab</a>                     |
-|       10 | 🎯 🆓 Sistema de Gerenciamento de Missões Espaciais         | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/python-space-mission-management-system-393176?course=quick-start-with-python'>Iniciar Desafio</a>        |
+|   Índice | Nome                                                  | Dificuldade   | Prática                                                                                                                                                  |
+|----------|-------------------------------------------------------|---------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
+|       01 | Seu Primeiro Laboratório de Python                    | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/your-first-python-lab-270256?course=quick-start-with-python'>Iniciar Lab</a>                           |
+|       02 | Comunicação da Academia Espacial                      | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/python-python-print-challenge-393069?course=quick-start-with-python'>Iniciar Desafio</a>               |
+|       03 | Tipos de Dados e Operadores em Python                 | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/python-python-data-types-and-operators-393077?course=quick-start-with-python'>Iniciar Lab</a>          |
+|       04 | Criar um Processador de Crachás para Astronautas      | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/python-python-string-manipulation-challenge-393083?course=quick-start-with-python'>Iniciar Desafio</a> |
+|       05 | Estruturas de Controle em Python                      | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/python-python-control-structures-393123?course=quick-start-with-python'>Iniciar Lab</a>                |
+|       06 | Criar uma Contagem Regressiva para Lançamento de F... | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/python-python-loop-challenge-393128?course=quick-start-with-python'>Iniciar Desafio</a>                |
+|       07 | Funções e Módulos em Python                           | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/python-python-functions-and-modules-393141?course=quick-start-with-python'>Iniciar Lab</a>             |
+|       08 | Calculadora de Missão Espacial                        | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/python-space-mission-calculator-393156?course=quick-start-with-python'>Iniciar Desafio</a>             |
+|       09 | Estruturas de Dados em Python                         | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/python-python-data-structures-393168?course=quick-start-with-python'>Iniciar Lab</a>                   |
+|       10 | Sistema de Gerenciamento de Missões Espaciais         | Intermediário | <a target='_blank' href='https://labex.io/pt/labs/python-space-mission-management-system-393176?course=quick-start-with-python'>Iniciar Desafio</a>      |
 
-## Sobre LabEx
+## About LabEx
 
-[LabEx](https://labex.io) é uma plataforma de aprendizagem interativa e prática dedicada à programação e tecnologia. Combina laboratórios, assistência de IA e máquinas virtuais para fornecer uma experiência de aprendizagem prática sem vídeos. Com uma abordagem rigorosa de 'Aprender Fazendo', ambientes online interativos no navegador com verificações automatizadas passo a passo, organização de conteúdo estruturada com o sistema baseado em Árvore de Habilidades, e um recurso de aprendizagem crescente de 30 Árvores de Habilidades e mais de 6.000 Laboratórios, [LabEx](https://labex.io) oferece educação prática integral. A plataforma inclui o assistente de aprendizagem Labby, construído sobre os últimos modelos de IA, fornecendo uma experiência de aprendizagem conversacional.
-
-## Mais
-
-- 🔗 [Python Cursos de Programação](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Python Projetos de Programação](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Python Tutoriais Gratuitos](https://github.com/labex-labs/python-free-tutorials)
+<div align="left"><p><a href="https://labex.io"><strong>LabEx</strong></a> is a <strong>hands-on learning platform for beginners</strong>.</p><p>Explore <a href="https://labex.io/learn/linux"><strong>Linux</strong></a>, <a href="https://labex.io/learn/devops"><strong>DevOps</strong></a>, <a href="https://labex.io/learn/cybersecurity"><strong>Cybersecurity</strong></a>, and <strong>more</strong> — all directly in your browser.</p><p>Learn step by step through <strong>interactive labs</strong>, <strong>guided exercises</strong>, and <strong>real-world projects</strong>. 🌱<br />No setup, no stress — just practice and grow your skills by doing.</p><br /><p><a href="https://apps.apple.com/app/id6765840991"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="54" /></a>&nbsp;<a href="https://apps.apple.com/app/id6765840991"><img src="https://developer.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-mac-app-store.svg" alt="Download on the Mac App Store" height="52" /></a></p><br /><p>📖 Need help? Visit our <a href="https://support.labex.io/">Help Center</a> or email info@labex.io</p></div>
 
